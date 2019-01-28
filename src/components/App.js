@@ -46,7 +46,7 @@ class App extends Component {
         <div className="text-justify text-center" id="text">
         "{this.state.text}"
         </div>
-
+{//}
 
         <div className="row" id="author">
         - {this.state.author}
