@@ -1,0 +1,13 @@
+#quote-box {
+  background-color: white;
+  border-radius: 10px;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
